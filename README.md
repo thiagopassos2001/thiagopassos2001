@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @thiagoPassos2001
-- 👀 I’m interested in Civil Engineering
+- 👋 Oi, me chamo Thiago
+- 👀 Tenho Engenharia Civil
 - 📫 Email: passos.thiago2001@gmail.com
 
-Me chamo Thiago, concluí o Ensino Médio integrado ao curso Técnico em Edificações, o qual me proporcionou experiências que me aproximaram e me encantaram pela construção. Curso atualmente o 5° período em Engenharia Civil na Universidade Federal do Ceará, ainda buscando uma área de atuação específica (por enquanto me aventurando em todas). Entusiasta de progamação com Python e Data Analysis, sempre buscando maneiras de aplicar essas habilidades no contexto da construção civil.
+Graduando em engenharia civil e técnica em edificações buscando experiência profissional e colocação no mercado. Já trabalhei como freelancer em projetos arquitetônicos, elétricos e hidráulicos para construtoras. Participei de um projeto de extensão na UFC voltado à modelagem de em plataformas BIM das edificações do campus e coordenação destes projetos. Estas experiências foram fundamentais para formar habilidades técnicas e pessoais para aperfeiçoar projetos e auxiliar na gestão destes.
+
+Portifólio de Projetos: https://drive.google.com/drive/folders/1OLPiaz1e6RA1onB9To2VNcfeQD3y-H3Z?usp=share_link
