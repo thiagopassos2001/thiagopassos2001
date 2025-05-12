@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A civil engineer from Brazil</h3>
+<h3 align="center">Civil Engineer, Master's student in Transport Engineering (PETRAN / UFC) from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
