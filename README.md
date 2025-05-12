@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eng-civil-thiago-passos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eng-civil-thiago-passos/" height="30" width="40" /></a>
-<a href="https://lattes.cnpq.br/5871585992820881" target="blank"><img align="center" src="https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/@@images/image.jpeg" alt="https://lattes.cnpq.br/5871585992820881" height="30" width="40" /></a>
+<a href="https://lattes.cnpq.br/5871585992820881" target="blank"><img align="center" src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" alt="https://lattes.cnpq.br/5871585992820881" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
